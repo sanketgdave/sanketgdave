@@ -1,4 +1,3 @@
-## Hi there 👋
 ![logo](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
 
 <h1 align="center"><u>Hi 👋, I'm Sanket Dave</u></h1>
@@ -8,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshmrawal&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshmrawal" /> </p>
 
-- 🌱 I’m currently open for opportunites in the field of Data and Software Engineering**
+- 🌱 I’m currently open for opportunites in the field of **Data and Software Engineering**
 
 - 📫 How to reach me **sanketgdave@gmail.com**
 
@@ -21,11 +20,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshmrawal&show_icons=true&locale=en&layout=compact" alt="divyanshmrawal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketgdave&show_icons=true&locale=en&layout=compact" alt="sanketgdave" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshmrawal&show_icons=true&locale=en" alt="divyanshmrawal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketgdave&show_icons=true&locale=en" alt="sanketgdave" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshmrawal&" alt="divyanshmrawal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketgdave&" alt="sanketgdave" /></p>
 <!--
 **sanketgdave/sanketgdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
