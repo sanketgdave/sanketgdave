@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+<!-- ![logo](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif) -->
 
 <h1 align="center"><u>Hi 👋, I'm Sanket Dave</u></h1>
 <h3 align="center">A Data Enthusiast with a drive to uncover patterns. Not just in data, but anywhere a pattern exists. </h3>
