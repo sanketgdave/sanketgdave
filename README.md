@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
 <h3 align="center">A Data Enthusiast with a drive to uncover patterns. Not just in data, but anywhere a pattern exists.</h3>
 
-<img src="https://github.com/sanketgdave/sanketgdave/blob/main/Blue%20White%20Architect%20LinkedIn%20Banner.png" alt="sanketgdave" />
+<img src="https://github.com/sanketgdave/sanketgdave/blob/main/Linkedin%20Banner%20github.png" alt="sanketgdave" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sanketgdave&label=Profile%20views&color=0e75b6&style=flat" alt="sanketgdave" />
