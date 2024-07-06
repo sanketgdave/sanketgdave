@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 I'm a Machine Learning Engineer with a passion in finding pattern model building.<br><br>🔭 I’m currently working on Semantic Search Web App- A web application that lets users upload documents and use an AI chatbot to find specific information within them<br><br>🌱 I’m currently polishing Data Structures and learning OpenAI.<br><br>📫 How to reach me: sanketgdave@gmail.com
+💫 I'm a Machine Learning Engineer with a passion in finding patterns.<br><br>🔭 I’m currently working on Semantic Search Web App- A web application that lets users upload documents and use an AI chatbot to find specific information within them<br><br>🌱 I’m currently polishing Data Structures and learning OpenAI.<br><br>📫 How to reach me: sanketgdave@gmail.com
 
 
 ## 🌐 Socials:
