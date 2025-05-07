@@ -1,15 +1,9 @@
 # About Me: <br><br>
-
 💼 I’m a Data Engineer passionate about turning raw data into actionable insights and building robust data pipelines.<br><br>
-
 🔧 I’m currently working on a Cloud-Native ETL Automation Project — developing scalable pipelines to process structured and unstructured data across Azure and AWS platforms.<br><br>
-
 📊 I love optimizing SQL queries, automating data workflows, and designing efficient data models that power analytics and business intelligence solutions.<br><br>
-
 🌱 Currently deepening my skills in data modeling, cloud data warehousing (Snowflake, Redshift), and exploring streaming architectures like Kafka and Spark.<br><br>
-
 📫 Feel free to connect or reach out at sanketgdave@gmail.com — always open to data-driven conversations!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanketdave88) 
