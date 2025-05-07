@@ -1,4 +1,4 @@
-# About Me: <br><br>
+# About Me: <br>
 💼 I’m a Data Engineer passionate about turning raw data into actionable insights and building robust data pipelines.<br><br>
 🔧 I’m currently working on a Cloud-Native ETL Automation Project — developing scalable pipelines to process structured and unstructured data across Azure and AWS platforms.<br><br>
 📊 I love optimizing SQL queries, automating data workflows, and designing efficient data models that power analytics and business intelligence solutions.<br><br>
